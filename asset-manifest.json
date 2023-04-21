@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Make-Form/static/css/main.3e3d956f.css",
+    "main.js": "/Make-Form/static/js/main.d6dadc61.js",
+    "static/js/787.5bd4efce.chunk.js": "/Make-Form/static/js/787.5bd4efce.chunk.js",
+    "index.html": "/Make-Form/index.html",
+    "main.3e3d956f.css.map": "/Make-Form/static/css/main.3e3d956f.css.map",
+    "main.d6dadc61.js.map": "/Make-Form/static/js/main.d6dadc61.js.map",
+    "787.5bd4efce.chunk.js.map": "/Make-Form/static/js/787.5bd4efce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e3d956f.css",
+    "static/js/main.d6dadc61.js"
+  ]
+}
