@@ -1,4 +1,5 @@
 .App {
+  display: flex;
   text-align: center;
   margin-top: 50px;
 }
@@ -31,15 +32,9 @@ input {
 .box{
   background-color: rgb(202, 226, 235);
   border-radius: 15px;
-  width: 800px;
-  margin-left: auto;
-  margin-right: auto;
+  width: auto;
+  margin-right: 50px;
   padding: 20px;
-}
-
-.form-preview {
-  text-align: center;
-  margin-top: 50px;
 }
 
 .form-verify-element {
@@ -58,17 +53,28 @@ span {
   margin: 10px;
 }
 
-.allForms {
+.currentForm {
   text-align: center;
   padding: 20px;
-}
-
-.form-box {
   background-color: aliceblue;
   width: 800px;
   border-radius: 15px;
-  padding: 10px;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 15px;
+  margin-top: 20px;
+}
+
+.addElementsSection {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.previewSection {
+  flex: 1;
+  text-align: center;
+
+}
+
+.submmitted-form-elements {
+  margin: 10px;
 }
